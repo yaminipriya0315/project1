@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yamini Priya Yarramsetti - Resume</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>YAMINI PRIYA YARRAMSETTI</h1>
+            <h2>Software Engineer</h2>
+        </div>
+        <div class="contact-info">
+            <p>📧 yaminipriya0315@gmail.com 📞 9550684377 🌏 Indian 📅 03/03/2005</p>
+            <p>🔗 Yamini Priya Yarramsetti</p>
+        </div>
+        <div class="section">
+            <h3>CAREER OBJECTIVE</h3>
+            <p>Motivated and proactive recent graduate with a degree in BTech. Skilled in excellent problem-solving and communication abilities. Eager to apply academic knowledge and a strong work ethic to contribute to a dynamic team. Passionate about starting my career and excited to bring a fresh perspective to the organization.</p>
+        </div>
+        <div class="section">
+            <h3>EDUCATION</h3>
+            <p><strong>B.Tech</strong><br>Sasi Institute of Technology and Engineering, Tadepalligudem<br>CGPA: 8.7<br>2022 – 2026</p>
+            <p><strong>Intermediate</strong><br>Vidya Vikas Junior College, Eluru<br>Percentage: 92.8%<br>2020 – 2021</p>
+            <p><strong>School</strong><br>Geethanjali High School, Reddugudem<br>Percentage: 95.6%<br>2009 – 2019</p>
+        </div>
+        <div class="section">
+            <h3>TECHNICAL SKILLS & TOOLS</h3>
+            <div class="skills">
+                <div>
+                    <p><strong>Programming Languages:</strong><br>C, Python, Java</p>
+                </div>
+                <div>
+                    <p><strong>Frontend technologies:</strong><br>HTML, CSS, MongoDB</p>
+                </div>
+                <div>
+                    <p><strong>DataBases:</strong><br>SQL</p>
+                </div>
+                <div>
+                    <p><strong>Operating Systems:</strong><br>Windows, Mac OS, Linux, Android</p>
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <h3>CERTIFICATIONS</h3>
+            <p>AI-ML Virtual Internship by Edu Program</p>
+            <p>Internship Program on MACHINE LEARNING by Skilldzire</p>
+            <p>Google Android Developer by Edu Program</p>
+            <p>Completed CAMBRIDGE English Interchange level-3</p>
+            <p>Fundamentals of Full Stack development by EXCELR</p>
+        </div>
+        <div class="section">
+            <h3>STRENGTHS</h3>
+            <div class="strengths">
+                <div>Humble</div>
+                <div>Time Management</div>
+                <div>Positive Attitude</div>
+            </div>
+        </div>
+        <div class="section">
+            <h3>LANGUAGES</h3>
+            <div class="languages">
+                <div>Telugu</div>
+                <div>English</div>
+            </div>
+        </div>
+        <div class="declaration">
+            <p>I hereby declare that the information provided in this resume is true, and accurate to the best of my knowledge and belief.</p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
